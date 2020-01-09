@@ -19,5 +19,11 @@ https://docs.python.org/3/library/secrets.html#module-secrets
 
 
 *Virtual enviornment setup with conda*
+
 https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#building-identical-conda-environments
 
+
+
+Building structures 
+
+https://cookiecutter.readthedocs.io/en/latest/
