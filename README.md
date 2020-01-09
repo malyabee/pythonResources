@@ -15,3 +15,9 @@ https://github.com/X-Vector/Crypt0x/tree/master/Crypt0x
 https://github.com/jmortega/pycon-security_criptography
 
 https://docs.python.org/3/library/secrets.html#module-secrets
+
+
+
+*Virtual enviornment setup with conda*
+https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#building-identical-conda-environments
+
