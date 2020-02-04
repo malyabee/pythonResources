@@ -1,9 +1,12 @@
 How to install wheel files (.whl) python file
 
 Step 1. Download python package .whl extention 
+
 Step 2. python -m pip install  <package name>
 
-
+(or)
+ 
+pip install --no-index  --find-links=<directory to whl file location> <package_name>
 
  
 
