@@ -42,4 +42,5 @@ https://cookiecutter.readthedocs.io/en/latest/
 
 https://learning.oreilly.com/videos/mastering-python-3-x/9781789955347/9781789955347-video8_4
 
-
+#Tox envionrment
+    https://www.youtube.com/watch?v=PrAyvH-tm8E
