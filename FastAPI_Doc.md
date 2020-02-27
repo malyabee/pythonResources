@@ -12,3 +12,5 @@ Building APIs with this framework is fast and easy.
 Resources 
   * https://fastapi.tiangolo.com/
   * https://tryolabs.com/blog/2019/12/10/top-10-python-libraries-of-2019/
+  * https://testdriven.io/blog/fastapi-crud/
+  * https://github.com/cloudmillet/fastapi-crud-sync
